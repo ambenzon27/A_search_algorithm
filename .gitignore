@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environments
+venv/
+.venv/
+env/
+.env
+
+# Local tooling
+.claude/settings.local.json
